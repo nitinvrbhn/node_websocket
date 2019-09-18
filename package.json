@@ -1,0 +1,19 @@
+{
+  "name": "node_websocket",
+  "version": "1.0.0",
+  "description": "Project to create web socket connection with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinvrbhn/node_websocket.git"
+  },
+  "author": "Nitin Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinvrbhn/node_websocket/issues"
+  },
+  "homepage": "https://github.com/nitinvrbhn/node_websocket#readme"
+}
